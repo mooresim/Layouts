@@ -1,0 +1,143 @@
+*{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+
+}
+
+.layout-1{
+    background-color: #e3e3e3;
+
+}
+
+.layout-2{
+    background-color: #e3e3e3;
+
+}
+
+.layout-3{
+    background-color: #e3e3e3;
+
+}
+
+.layout-1 #topHeader{
+    background-color:red;
+
+}
+
+.layout-1 div{
+    background-color: red;
+}
+
+.layout-1 nav{
+    background-color:blue;
+    display: block; 
+}
+
+.layout-1 section{
+    
+}
+
+.layout-1 header{
+    background-color: yellow;
+    display: inline-block;
+    width: 75%;
+    height: 30px;
+    padding: 6px;
+}
+
+.layout-1 #sectionHeader{
+    background-color:yellow;
+ }
+
+.layout-1 article{
+    background-color:orange;
+    display: inline-block;
+    width: 75%;
+}
+.layout-1 aside{
+    background-color:purple;
+    
+}
+
+.layout-1 aside a{
+    background-color:white;
+    border: solid 5px purple;
+    float: right;
+    
+    
+}
+
+.layout-1 footer{
+    text-align: center;
+}
+
+#topHeader2{
+    background-color:red;
+
+}
+.layout-2 nav{
+    background-color:blue;
+
+}
+
+.layout-2 nav a{
+    background-color:white;
+}
+
+#content{
+    background-color:green;
+    height:20px;
+}
+
+.article2{
+    background-color:yellow;
+}
+
+.aside-content{
+    background-color:purple;
+    height:20px;
+
+}
+
+.aside-info{
+    background-color:aqua;
+}
+
+.layout-2 img{
+    background-color: aqua;
+}
+
+.layout-2 footer{
+}
+
+.layout-3 header{
+    background-color:red;
+}
+
+#sectionHeader3{
+    background-color:blue;
+}
+
+.layout-3 nav{
+    background-color:yellow;
+}
+
+.layout-3 section{
+    background-color:orange;
+}
+
+.layout-3 aside{
+    background-color:purple;
+}
+
+#pageFooter{
+    background-color:green;
+}
+
+
+
+
+
+
+
