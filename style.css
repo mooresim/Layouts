@@ -22,7 +22,10 @@
 
 .layout-1 #topHeader{
     background-color:red;
-
+    display:block;
+    text-align: center;
+    height:40px;
+    font-size: 25px;
 }
 
 .layout-1 div{
@@ -32,28 +35,32 @@
 .layout-1 nav{
     background-color:blue;
     display: block; 
+    text-align: center;
 }
 
 .layout-1 section{
+    width: 70%;
     
+  
+   
 }
 
 .layout-1 header{
     background-color: yellow;
-    display: inline-block;
-    width: 75%;
-    height: 30px;
-    padding: 6px;
+    
+    
+   
 }
 
 .layout-1 #sectionHeader{
     background-color:yellow;
+    width: 100%;
+    padding: 7px;
  }
 
 .layout-1 article{
     background-color:orange;
-    display: inline-block;
-    width: 75%;
+   
 }
 .layout-1 aside{
     background-color:purple;
@@ -63,9 +70,10 @@
 .layout-1 aside a{
     background-color:white;
     border: solid 5px purple;
-    float: right;
-    
-    
+    float:right;
+   clear: both;
+   width:30%;
+   text-align: center;
 }
 
 .layout-1 footer{
