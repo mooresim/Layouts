@@ -87,29 +87,25 @@
 }
 .layout-2 nav{
     background-color:blue;
-    float: left;
-    width: 50%;
+    
 }
 
 .layout-2 nav a{
     background-color:white;
     
-   
 }
 
 #content{
     background-color:green;
     height:20px;
-    padding: 15%;
-   width: 70%;
+    
   
 
 }
 
 .article2{
     background-color:yellow;
-    padding: 5px;
-
+   
 }
 
 #article2{
@@ -120,7 +116,6 @@
 .aside-content{
     background-color:purple;
     height:20px;
-    float: right;
    
 }
 
