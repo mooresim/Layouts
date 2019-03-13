@@ -90,54 +90,51 @@
     float:left;
     clear:both;
     width:20%;
-    display:block;
+    
 }
 
 .layout-2 nav a{
     background-color:white;
-    float:left;
-    clear:both;
-    width:20%;
-    text-align:center;
     display:inline-block;
+    
 }
 
 #content{
     background-color:green;
     height:20px;
     width:75%;
-    display:block;
+    
 
 }
 
 .article2{
     background-color:yellow;
-    width:70%;
+    
 }
 
 #article2{
     background-color: yellow;
-    width:70%;
+    
 }
 
 .aside-content{
     background-color:purple;
     height:20px;
     width:20%;
-    float:right
+    float:right 
+    clear:both;
+    margin:4px 4px 4px 4px;
 }
 
 .aside-info{
     background-color:aqua;
-    float:right;
-    width:20%;
+   
     
 }
 
 .layout-2 img{
     background-color: aqua;
-    float:right;
-    width:20%;
+    
     
 }
 
