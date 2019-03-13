@@ -92,13 +92,16 @@
 
 .layout-2 nav a{
     background-color:white;
-    
+    float:left;
+    clear:both;
+    width:20%;
+    text-align:center;
 }
 
 #content{
     background-color:green;
     height:20px;
-    
+    width:75%;
   
 
 }
