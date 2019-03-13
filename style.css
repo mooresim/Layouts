@@ -94,7 +94,9 @@
 
 .layout-2 nav a{
     background-color:white;
-    
+    float:left;
+    clear:both;
+    width:30%;
     
 }
 
