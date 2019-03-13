@@ -90,6 +90,7 @@
     float:left;
     clear:both;
     width:20%;
+    display:block;
 }
 
 .layout-2 nav a{
@@ -98,13 +99,14 @@
     clear:both;
     width:20%;
     text-align:center;
+    display:inline-block;
 }
 
 #content{
     background-color:green;
     height:20px;
     width:75%;
-  
+    display:block;
 
 }
 
