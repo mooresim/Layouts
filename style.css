@@ -120,10 +120,9 @@
 .aside-content{
     background-color:purple;
     height:20px;
-    width:20%;
-    float:right 
-    clear:both;
-    margin:4px 4px 4px 4px;
+    width:40%;
+    float:right;
+    
 }
 
 .aside-info{
