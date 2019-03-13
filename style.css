@@ -87,7 +87,10 @@
 }
 .layout-2 nav{
     background-color:blue;
-    
+    float:left;
+    clear:both;
+    width:20%;
+    border:solid 8px blue;
 }
 
 .layout-2 nav a{
@@ -108,22 +111,24 @@
 
 .article2{
     background-color:yellow;
-   
+    width:70%;
 }
 
 #article2{
     background-color: yellow;
-    
+    width:70%;
 }
 
 .aside-content{
     background-color:purple;
     height:20px;
-   
+    width:20%;
+    
 }
 
 .aside-info{
     background-color:aqua;
+    float:right;
     
     
 }
