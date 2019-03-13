@@ -90,7 +90,6 @@
     float:left;
     clear:both;
     width:20%;
-    border:solid 8px blue;
 }
 
 .layout-2 nav a{
@@ -139,6 +138,8 @@
     width:20%;
     
 }
+
+
 
 .layout-2 footer{
 }
