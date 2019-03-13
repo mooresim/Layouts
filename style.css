@@ -123,18 +123,21 @@
     background-color:purple;
     height:20px;
     width:20%;
-    
+    float:right
 }
 
 .aside-info{
     background-color:aqua;
     float:right;
-    
+    width:20%;
     
 }
 
 .layout-2 img{
     background-color: aqua;
+    float:right;
+    width:20%;
+    
 }
 
 .layout-2 footer{
